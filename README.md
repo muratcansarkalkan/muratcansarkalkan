@@ -10,7 +10,7 @@
   
 </h6>
   
-<h2 align="center">🧬Here, you can find recent of my portfolio!🧬</h2>
+<h2 align="center">🧬You can find the most recent works of my portfolio here!🧬</h2>
 <p align="center">
   <a href="https://github.com/muratcansarkalkan/AddStadiumstoFM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=AddStadiumstoFM" />
