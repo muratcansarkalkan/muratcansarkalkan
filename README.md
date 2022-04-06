@@ -1,4 +1,5 @@
-### <h1 align="center">👋 HELLO! 👋</h1>
+### 
+<h1 align="center">👋 HELLO! 👋</h1>
 
 <h4 align="center">Greetings, greetings! My name is Muratcan, I am a 24 year old junior software developer that specializes on Python and aims on adding up to his knowledge and experience every single day! Welcome to my Github profile!</h4>
 
@@ -7,6 +8,8 @@
 	<img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="40" />
 	<img title="linux" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />	
+	<img title="html5" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="70" height="40" />
+	<img title="css3" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" />
 	<img title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="40" />
 	<img title="java" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />	
 </p>
