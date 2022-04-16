@@ -24,11 +24,11 @@
   
 <h2 align="center">🧬You can find the most recent works of my portfolio here!🧬</h2>
 <p align="center">
-  <a href="https://github.com/muratcansarkalkan/AddStadiumstoFM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=AddStadiumstoFM" />
+  <a href="https://github.com/muratcansarkalkan/ProductScrape">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=ProductScrape" />
 </a>
-<a href="https://github.com/muratcansarkalkan/SaveYourJobs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=SaveYourJobs" />
+<a href="https://github.com/muratcansarkalkan/SaveYourJobsWEB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=SaveYourJobsWEB" />
 </a>
 </p>
 <h2 align="center">Last but not least...</h2>
