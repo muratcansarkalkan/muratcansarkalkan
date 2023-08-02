@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">👋 HELLO! 👋</h1>
 
-<h4 align="center">Greetings, greetings! My name is Muratcan, I am a 25 year old junior software developer and aims on adding up to his knowledge and experience every single day! Welcome to my Github profile!</h4>
+<h4 align="center">Greetings, greetings! My name is Muratcan, I am a 26 year old software engineer and aims on adding up to his knowledge and experience every single day! Welcome to my Github profile!</h4>
 
 <h2 align="center">🎼My skills include:🎼</h2>
 <p align="center">
@@ -19,7 +19,7 @@
 	<img title="nodejs" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40" />	
 	<img title="express" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="40" />
 	<img title="react" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="40" />
-	<img title="django" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="40" />
+	<img title="django" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="40" />
 	<img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="40" />
 	<img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40" />
 	<img title="linux" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40" />	
@@ -36,11 +36,11 @@
   
 <h2 align="center">🧬You can find the most recent works of my portfolio here!🧬</h2>
 <p align="center">
-  <a href="https://github.com/muratcansarkalkan/ProductScrape">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=ProductScrape" />
+  <a href="https://github.com/muratcansarkalkan/stadiumwizard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=stadiumwizard" />
 </a>
-<a href="https://github.com/muratcansarkalkan/ESPN-BottomLine-Scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=ESPN-BottomLine-Scraper" />
+<a href="https://github.com/muratcansarkalkan/stadiumwizardbackend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=stadiumwizardbackend" />
 </a>
 </p>
 <h2 align="center">Last but not least...</h2>
