@@ -1,32 +1,20 @@
-### 
-<h1 align="center">👋 Hello! 👋</h1>
+<h1>Hi, I'm Murat Can! <br/><a href="https://github.com/muratcansarkalkan">Developer</a>, <a href="https://www.linkedin.com/in/muratcansarkalkan/">IT Professional</a></h1>
 
-<h4 align="center">My name is Muratcan, I am a 26 year old software engineer and aims on adding up to his knowledge and experience every single day! Welcome to my Github profile!</h4>
-  
-<h2 align="center">🧬You can find the most recent works of my portfolio here!🧬</h2>
-<p align="center">
-  <a href="https://github.com/muratcansarkalkan/stadiumwizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=stadiumwizard" />
-</a>
-<a href="https://github.com/muratcansarkalkan/stadiumwizardbackend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcansarkalkan&repo=stadiumwizardbackend" />
-</a>
-</p>
-<h2 align="center">Last but not least...</h2>
-<p  align="center">📫 Feel free to contact me via <a href="https://www.linkedin.com/in/muratcansarkalkan">Linkedin</a>, or <a href="mailto:muratcansarkalkan@gmail.com">E-mail!</a></p>
+<h2>👨‍💻 Software Development Projects:</h2>
 
-<!--
-**muratcansarkalkan/muratcansarkalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Full Stack Web App (React, NodeJS, TypeScript)</b>
+  - [Stadium Wizard Front-End](https://github.com/muratcansarkalkan/stadiumwizard/)
+  - [Stadium Wizard Back-End](https://github.com/muratcansarkalkan/stadiumwizardbackend/)
+- <b>Full Stack Web App (Python, Django)</b>
+  - [Save Your Jobs](https://github.com/muratcansarkalkan/SaveYourJobsWEB)
+- <b>Python</b>
+  - [Product Scraper](https://github.com/muratcansarkalkan/ProductScrape)
+  - [Wikimedia Commons Parser](https://github.com/muratcansarkalkan/WikimediaCommonsParser)
+  - [Stadium Extracting Wizard](https://github.com/muratcansarkalkan/AddStadiumstoFM)
+  - [Stadium Packaging Wizard](https://github.com/muratcansarkalkan/DrivetoLocal)
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="muratcansarkalkan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://linkedin.com/in/muratcansarkalkan
